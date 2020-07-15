@@ -1,0 +1,31 @@
+body{
+background-color: black;
+color:white;
+border:40px solid orange;
+font-family: 'Balsamiq Sans', cursive  ;
+margin: 0px;
+text-align: center;
+
+}
+form{
+font-size: 20px;
+
+}
+
+#submit{
+  background-color:white;
+  font-size: 25px;
+  border-radius: 25px;
+  margin:14px;
+  width:140px;
+  height: auto;
+}
+h1,h2
+{
+  color:#fc2f00;
+}
+P{
+padding-right: 10px;
+
+
+}
